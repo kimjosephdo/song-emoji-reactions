@@ -1,2 +1,11 @@
-# song-emoji-reactions
-Web app to be able to react to songs with emojis
+# Oasis Project
+
+TODO:
+
+- Add a feed page where you can see what songs people are listening too
+
+- Use firebase or some database to store users and songs
+
+- Use bootstrap to design pages
+
+- Liveshare for coding together
